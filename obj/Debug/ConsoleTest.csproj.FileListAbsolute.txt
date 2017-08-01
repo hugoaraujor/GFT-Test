@@ -1,0 +1,12 @@
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\base.json
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\cypher.json
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\values.json
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\words.json
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\SERVER2\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
